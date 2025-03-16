@@ -489,12 +489,12 @@
     "encounter": {
       "1": "I love my Pokémon more than anything!",
       "2": "Our battle will only strengthen the bond with me and my Pokémon!",
-      "3": ""
+      "3": "I think I am a Pokéfan, therefore I am a Pokéfan. The Pokéfan is power!"
     },
     "victory": {
       "1": "You may have beat me in battle, but my love for Pokémon remains unmatched!",
-      "2": "",
-      "3": ""
+      "2": "You'll remember this! I am a big Pokéfan!",
+      "3": "I am not good at battling, but this is one of the duties of a Pokéfan.."
     }
   },
   "pokefan_female": {
@@ -506,7 +506,7 @@
     "victory": {
       "1": "You may have beat me in battle, but my love for Pokémon remains unmatched!",
       "2": "",
-      "3": ""
+      "3": "I am not good at battling, but this is one of the duties of a Pokéfan.."
     }
   },
   "rich": {
